@@ -1,4 +1,4 @@
-# Analysis of Markov Jump Processes under Terminal Constraints
+# [Analysis of Markov Jump Processes under Terminal Constraints](https://www.researchgate.net/publication/344689455_Analysis_of_Markov_Jump_Processes_under_Terminal_Constraints)
 
 _Michael Backenköhler, Luca Bortolussi, Gerrit Großmann, Verena Wolf_
 
